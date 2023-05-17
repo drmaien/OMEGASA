@@ -1,0 +1,21 @@
+OMEGASA/
+├── packages/
+│   └── micromegas/
+│       ├── micromegas_file1.py
+│       ├── micromegas_file2.py
+│       └── ...
+├── parameter_scanning.py
+├── data_generation.py
+├── data_analysis.py
+├── plotting.py
+├── utils.py
+├── notebooks/
+│   ├── exploration.ipynb
+│   ├── analysis.ipynb
+│   └── ...
+├── data/
+│   ├── data_file1.txt
+│   ├── data_file2.txt
+│   └── ...
+├── requirements.txt
+└── README.md
